@@ -23,4 +23,12 @@ If the user chooses to check the package status by time, all package information
 ![Status](https://github.com/j-madsen/Package-Router/blob/main/Demo%20Images/timeStatus2.jpg?raw=true)
 
 # Installation
-### 
+
+### Pre-Requisites
+You will need the below program:
+- Download PyCharm (https://www.jetbrains.com/pycharm/)
+
+### Instructions
+- Download project ZIP and extract.
+- Open project folder in PyCharm, build and run the application.
+
